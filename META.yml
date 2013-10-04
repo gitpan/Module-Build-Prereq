@@ -20,4 +20,4 @@ no_index:
 requires:
   File::Find: 0
   Module::CoreList: 0
-version: 0.03
+version: 0.04
